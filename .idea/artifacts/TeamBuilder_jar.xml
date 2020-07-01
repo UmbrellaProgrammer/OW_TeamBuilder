@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeamBuilder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TeamBuilder_jar</output-path>
+    <root id="archive" name="TeamBuilder.jar">
+      <element id="module-output" name="TeamBuilder" />
+    </root>
+  </artifact>
+</component>

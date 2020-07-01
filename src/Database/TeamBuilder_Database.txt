@@ -1,0 +1,32 @@
+Reinhardt,tank,shield,no,no,no,no,no,2
+Echo,dps,projectile,no,yes,no,no,no,1
+Orisa,tank,shield,no,no,no,no,no,1
+Zarya,tank,noshield,no,no,no,no,no,1
+DVa,tank,noshield,no,no,yes,no,yes,2
+Wrecking Ball,tank,noshield,no,yes,no,no,no,1
+Winston,tank,noshield,no,yes,no,yes,no,1
+Roadhog,tank,noshield,no,no,no,no,yes,2
+Sigma,tank,shield,no,no,no,no,no,2
+Ana,healer,single-target,yes,yes,yes,no,no,2
+Baptiste,healer,aoe,no,no,no,no,no,1
+Brigitte,healer,single-target,no,no,no,yes,no,1
+Lucio,healer,aoe,no,no,no,no,no,1
+Mercy,healer,single-target,no,no,no,no,no,1
+Moira,healer,aoe,no,no,no,no,no,2
+Zenyatta,healer,single-target,no,no,no,no,no,1
+Ashe,dps,hitscan,yes,yes,yes,no,no,2
+Bastion,dps,hitscan,no,no,yes,no,yes,2
+Doomfist,dps,close-range,no,no,no,no,no,2
+Genji,dps,close-range,no,no,no,no,no,1
+Hanzo,dps,projectile,yes,yes,yes,no,yes,2
+Junkrat,dps,projectile,no,no,no,no,yes,2
+McCree,dps,hitscan,no,no,yes,yes,no,2
+Mei,dps,close-range,no,no,no,yes,no,1
+Pharah,dps,projectile,no,no,no,no,yes,2
+Reaper,dps,close-range,no,no,no,yes,yes,2
+Soldier 76,dps,hitscan,no,no,yes,no,no,2
+Sombra,dps,close-range,no,yes,no,no,yes,1
+Symmetra,dps,projectile,no,no,no,yes,no,1
+Torbjorn,dps,projectile,no,no,yes,yes,no,1
+Tracer,dps,close-range,no,no,no,no,no,1
+Widowmaker,dps,hitscan,yes,yes,yes,no,no,1
