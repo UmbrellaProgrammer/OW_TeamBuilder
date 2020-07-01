@@ -21,7 +21,6 @@ import java.net.URL;
 
 public class TeamBuilder extends Application {
 
-
     public static void main(String[] args) {
 
         Application.launch(TeamBuilder.class, args);
